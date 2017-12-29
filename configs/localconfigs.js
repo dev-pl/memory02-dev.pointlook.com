@@ -4,7 +4,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 /////
-var HOSTNAME = exports.HOSTNAME = "memory02.pointlook.com";
+var HOSTNAME = exports.HOSTNAME = "memory02-dev.pointlook.com";
 var DATA_FILE = exports.DATA_FILE = "data/data-" + HOSTNAME + "-client";
 var DEVICE_ID = exports.DEVICE_ID = false;
 
