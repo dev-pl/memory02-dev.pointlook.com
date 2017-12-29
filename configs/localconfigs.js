@@ -8,7 +8,7 @@ var HOSTNAME = exports.HOSTNAME = "memory02.pointlook.com";
 var DATA_FILE = exports.DATA_FILE = "data/data-" + HOSTNAME + "-client";
 var DEVICE_ID = exports.DEVICE_ID = false;
 
-var MY_MEMORY = exports.MY_MEMORY = "https://m2-pl-admin.193b.starter-ca-central-1.openshiftapps.com/gun";
+var MY_MEMORY = exports.MY_MEMORY = "https://dev-pl-redhat.193b.starter-ca-central-1.openshiftapps.com/gun";
 var CLOUD_MEMORIES = exports.CLOUD_MEMORIES = MY_MEMORY;
 var DEV_CLOUD_MEMORIES = exports.DEV_CLOUD_MEMORIES = ["https://dev-ut-redhat.193b.starter-ca-central-1.openshiftapps.com/gun", "https://dev-ut-memtwo.193b.starter-ca-central-1.openshiftapps.com/gun"];
 var ROOT_MEMORIES = exports.ROOT_MEMORIES = ["https://tropospheric.mybluemix.net/gun", "https://tropospheric-tropospheric.193b.starter-ca-central-1.openshiftapps.com/gun"];
