@@ -3,7 +3,8 @@
 /////
 //exports.HOSTNAME = "memory02-dev.alex2006hw.com";
 
-exports.ROOT_MEMORIES = ["https://tropospheric.mybluemix.net/gun", "https://tropospheric-tropospheric.193b.starter-ca-central-1.openshiftapps.com/gun"];
+exports.ROOT_MEMORIES = "https://tropospheric-tropospheric.193b.starter-ca-central-1.openshiftapps.com/gun";
+
 //const MY_MEMORY =
 //  !window ||
 //  !window.location ||
