@@ -1,0 +1,32 @@
+{
+  "privacy": {
+    "js": "/assets/privacy.add446aa.chunk.js"
+  },
+  "about": {
+    "js": "/assets/about.8d7bd4d9.chunk.js"
+  },
+  "register": {
+    "js": "/assets/register.ab449e96.chunk.js"
+  },
+  "not-found": {
+    "js": "/assets/not-found.909216ec.chunk.js"
+  },
+  "login": {
+    "js": "/assets/login.741b50a5.chunk.js"
+  },
+  "home": {
+    "js": "/assets/home.e007f8b4.chunk.js"
+  },
+  "contact": {
+    "js": "/assets/contact.99973ff8.chunk.js"
+  },
+  "admin": {
+    "js": "/assets/admin.404ba193.chunk.js"
+  },
+  "client": {
+    "js": "/assets/client.a8f903fc.js"
+  },
+  "vendor": {
+    "js": "/assets/vendor.52dfa890.js"
+  }
+}
