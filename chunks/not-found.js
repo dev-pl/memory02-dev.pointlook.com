@@ -987,7 +987,7 @@ module.exports = "/assets/8844262b.png";
 /* unused harmony export DEBUG */
 /* unused harmony export DEBUG_LOG_URL */
 /////
-var HOSTNAME = "memory02-dev.pointlook.com";
+var HOSTNAME = "memory02.pointlook.com";
 var DATA_FILE = "data/data-" + HOSTNAME;
 var DEVICE_ID = false; /////
 
@@ -996,7 +996,13 @@ var DBFILE = DATA_FILE;
 var DEBUG = false;
 var DEBUG_LOG_URL = "https://logentries.com/app/a092e388"; /////
 //export const MY_MEMORY =
-//  "https://dev-pl-redhat.193b.starter-ca-central-1.openshiftapps.com/gun";
+//  !window ||
+//  !window.location ||
+//  !window.location.protocol ||
+//  !window.location.host
+//    ? "https://m2-alex2006hw-gmail.7e14.starter-us-west-2.openshiftapps.com/gun"
+//    : window.location.protocol + "//" + window.location.host + "/gun";
+//
 //export const CLOUD_MEMORIES = MY_MEMORY;
 //export const DEV_CLOUD_MEMORIES = [
 //  "https://dev-ut-redhat.193b.starter-ca-central-1.openshiftapps.com/gun",
